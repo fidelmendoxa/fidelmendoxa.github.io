@@ -1,10 +1,11 @@
 # Fidel Mendoza
 
+Seattle, WA
 fidelmendo@icloud.com
 
 # Summary
 
-I am qualified for this job because yes
+I am qualified for this job because yes, and of course
 
 # Education
 
@@ -12,14 +13,14 @@ I am qualified for this job because yes
 
 ## Majoring in Geography: Data Science
 
+[University of Washington]: https://www.washington.edu
+
 ## Work Experience
 
-**Garbage Man** (December 2003 - Present)
+**Chores around the house** (December 2003 - Present)
 
 Summary of your role
 
 - My mom says I am the **BEST** at throwing away the trash
 - Nobody has seen somebody throw away the trash the way I throw it away
 - Everyone says I am really **Efficient** and **Timely** when it comes to throwing away the trash
-
-[University of Washington]: https://www.washington.edu
