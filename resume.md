@@ -1,6 +1,7 @@
 # Fidel Mendoza
 
 Seattle, WA
+
 fidelmendo@icloud.com
 
 # Summary
@@ -9,9 +10,9 @@ I am qualified for this job because yes, and of course
 
 # Education
 
-## University of Washington, Seattle WA
-
-## Majoring in Geography: Data Science
+University of Washington, Seattle WA
+Majoring in Geography: Data Science
+Relevant Course Work: GEOG 458
 
 [University of Washington]: https://www.washington.edu
 
