@@ -14,7 +14,9 @@ University of Washington, Seattle WA
 Majoring in Geography: Data Science
 Relevant Course Work: GEOG 458
 
-[University of Washington]: https://www.washington.edu
+University of Washington, https://www.washington.edu
+Image of UW Campus
+![image of the university of washington campus](https://lh3.googleusercontent.com/p/AF1QipPwDrwMTLztYfg3CA1C4RTHiAshOZ_fccgB3DCM=s1360-w1360-h1020-rw)
 
 ## Work Experience
 
