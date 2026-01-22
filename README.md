@@ -1,5 +1,14 @@
 ## Lab 2 Narrative: YouTube Web Data Collection + Word Cloud Comparison
 
+[Link to download word cloud 1 data](https://github.com/fidelmendoxa/fidelmendoxa.github.io/blob/main/assets/search-result-1.csv)
+![](img/wordcloud-1.png)
+
+[Link to download word cloud 2 data](https://github.com/fidelmendoxa/fidelmendoxa.github.io/blob/main/assets/search-result-2.csv)
+![](img/wordcloud-2.png)
+
+[Link to download word cloud 3 data](https://github.com/fidelmendoxa/fidelmendoxa.github.io/blob/main/assets/search-result-3.csv)
+![](img/wordcloud-3.png)
+
 ### 1 Topic + Search Parameters Used
 
 For this lab, I explored how YouTube content differs across three major U.S. cities by collecting video data and generating word clouds.  
